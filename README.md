@@ -1,7 +1,7 @@
 # # belly-button-challenge
 Challenge 14<br>
 <br>
-Dashboard Linke:<br>
+Dashboard Link (GitHub Pages):<br>
 https://kamalfarran.github.io/belly-button-challenge/<br>
 <br>
 Javascript Code:<br>

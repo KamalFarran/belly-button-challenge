@@ -7,7 +7,7 @@ https://kamalfarran.github.io/belly-button-challenge/<br>
 Javascript Code:<br>
 https://github.com/KamalFarran/belly-button-challenge/blob/main/static/js/app.js<br>
 <br>
-html File to view Dashboard:<br>
+html File:<br>
 https://github.com/KamalFarran/belly-button-challenge/blob/main/index.html<br>
 <br>
 Samples JSON file (for reference):<br>
